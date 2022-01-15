@@ -4,7 +4,7 @@ on Jupiter's moon <a href="https://en.wikipedia.org/wiki/Europa_(moon)">Europa</
 name because it sounds cool, and maybe a little ominous.  In case you're wondering if it has anything
 to do with a video game called "Destiny", no it does not.
 
-At least in the near term, I plan to use this space to host some Interactive Fiction projects I plan on working on.
+At least in the near term, I plan to use this space to host some Interactive Fiction projects I', on working on.
 
 <!---
 RathmoreChaos/RathmoreChaos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
